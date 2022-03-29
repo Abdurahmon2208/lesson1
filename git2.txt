@@ -1,9 +1,0 @@
-git commit -a -m"anycomment"==saqlash un navbatga qoymasdan dogridan dogri saqlidi 
-
-git reset fileName or .=git add orqali saqlash uchun navbatda durgan ozgarishlari bekor atadi
-
-git commit --amend==songi commitdagi qamentariyani ozgartiradi yani qayta nomlash
-
-cd papkanomi/=papkani ichina giradi
-
-touch=yangi fayl qoshadi papkaga
